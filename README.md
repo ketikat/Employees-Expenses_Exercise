@@ -8,6 +8,7 @@ Follow the instructions below to run on your local machine for development and t
 
 ```
 createdb employee_expenses
+npm run seed
 ```
 ### Install
 
