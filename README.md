@@ -2,8 +2,13 @@
 Is a simple boilerplate app built with node, react, express, sequlize.
 
 ## Getting Started
-Follow the instructions below to run on your local machine for development and testing purposes.
+Follow the instructions below to run on your local machine for development and testing purposes. This project requires a local pg db.
 
+### Create DB
+
+```
+createdb employee_expenses
+```
 ### Install
 
 ```
